@@ -5,10 +5,10 @@ import (
 	"reflect"
 	"runtime"
 
-	"github.com/abmpio/abmp/pkg/factory"
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/abmp/pkg/utils/reflector"
-	"github.com/abmpio/abmp/pkg/utils/slice"
+	"github.com/shanluzhineng/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/utils/reflector"
+	"github.com/shanluzhineng/abmp/pkg/utils/slice"
 )
 
 const (

@@ -7,13 +7,13 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/abmpio/abmp/pkg/factory"
-	"github.com/abmpio/abmp/pkg/factory/autoconfigure"
-	"github.com/abmpio/abmp/pkg/factory/instantiate"
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/abmp/pkg/system"
-	"github.com/abmpio/abmp/pkg/utils/cmap"
-	"github.com/abmpio/abmp/pkg/utils/io"
+	"github.com/shanluzhineng/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/factory/autoconfigure"
+	"github.com/shanluzhineng/abmp/pkg/factory/instantiate"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/system"
+	"github.com/shanluzhineng/abmp/pkg/utils/cmap"
+	"github.com/shanluzhineng/abmp/pkg/utils/io"
 )
 
 var (

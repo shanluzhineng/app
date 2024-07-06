@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/abmpio/app"
+	"github.com/shanluzhineng/app"
 )
 
 type Application interface {

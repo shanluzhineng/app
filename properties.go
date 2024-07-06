@@ -1,6 +1,6 @@
 package app
 
-import "github.com/abmpio/abmp/pkg/system"
+import "github.com/shanluzhineng/abmp/pkg/system"
 
 const (
 	Config = system.Config

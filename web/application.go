@@ -6,8 +6,8 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/app"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/app"
 )
 
 // 配置服务

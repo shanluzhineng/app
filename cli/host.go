@@ -3,11 +3,11 @@ package cli
 import (
 	"strings"
 
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/app"
-	"github.com/abmpio/app/host"
-	"github.com/abmpio/configurationx"
-	"github.com/abmpio/configurationx/consulv"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/app"
+	"github.com/shanluzhineng/app/host"
+	"github.com/shanluzhineng/configurationx"
+	"github.com/shanluzhineng/configurationx/consulv"
 )
 
 type Host struct {

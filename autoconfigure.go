@@ -3,7 +3,7 @@ package app
 import (
 	"reflect"
 
-	"github.com/abmpio/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/factory"
 )
 
 // 应用配置基类

@@ -1,10 +1,10 @@
-module github.com/abmpio/app
+module github.com/shanluzhineng/app
 
 go 1.20
 
 require (
-	github.com/abmpio/abmp v0.0.0-20230819060034-aa8d5ad8e394
-	github.com/abmpio/configurationx v0.0.0-20230713072959-39c660b4f462
+	github.com/shanluzhineng/abmp v0.0.1
+	github.com/shanluzhineng/configurationx v0.0.1
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	go.uber.org/zap v1.25.0

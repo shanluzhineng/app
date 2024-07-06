@@ -1,6 +1,6 @@
 package app
 
-import "github.com/abmpio/abmp/pkg/factory"
+import "github.com/shanluzhineng/abmp/pkg/factory"
 
 // 用于shutdown处理
 type IShutdownAction interface {
